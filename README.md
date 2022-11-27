@@ -22,6 +22,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Authors
 
-* **Juho Torkkeli** - *Initial work* - [jiiiTee](https://github.com/jiiiTee)
+* **Juho Torkkeli** - *Initial work* - [JTorkk](https://github.com/JTorkk)
 
 
